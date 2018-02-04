@@ -3,3 +3,5 @@ misc.xml
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
+package-lock.json
+node_modules/
