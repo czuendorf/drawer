@@ -1,6 +1,6 @@
 {
   "name": "foxiums-drawer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a react.js drawer",
   "main": "./drawer.js",
   "scripts": {
